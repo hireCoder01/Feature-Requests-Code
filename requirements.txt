@@ -1,0 +1,3 @@
+flask-rest-jsonapi
+flask_sqlalchemy
+flask-cors
